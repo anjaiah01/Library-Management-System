@@ -1,0 +1,14 @@
+{
+    "S101": {
+        "name": "Alice",
+        "member_id": "S101",
+        "borrow_limit": 3,
+        "borrowed_books": []
+    },
+    "P202": {
+        "name": "Dr. Bob",
+        "member_id": "P202",
+        "borrow_limit": 5,
+        "borrowed_books": []
+    }
+}

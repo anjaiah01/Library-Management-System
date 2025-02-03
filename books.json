@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Python Basics",
+        "author": "John Doe",
+        "ISBN": "12345",
+        "availability": true
+    },
+    {
+        "title": "Data Structures",
+        "author": "Jane Smith",
+        "ISBN": "67890",
+        "availability": true
+    }
+]

@@ -1,0 +1,12 @@
+LibraryManagementSystem/  
+│── main.py                # Entry point of the project  
+│── models/                # Contains all OOP classes  
+│   │── book.py            # Book class  
+│   │── member.py          # Member & its subclasses (Student, Professor)  
+│   │── library.py         # Library class (manages books & members)  
+│── database/              # Data storage (optional)  
+│   │── library_data.json  # JSON file to store book & member data  
+│── utils/                 # Helper functions  
+│   │── file_handler.py    # Functions to read/write JSON data  
+│── README.md              # Project documentation  
+│── requirements.txt       # Dependencies (if any)  
